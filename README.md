@@ -19,10 +19,8 @@ I'm Aman Saxena a Front End Web Developer and Android Developer.
 
 ### Top Technologies
 
-<div align="center">
+<align="center">
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Android Badge](https://img.shields.io/badge/-Android-3C873A?style=for-the-badge&labelColor=black&logo=android&logoColor=3C873A)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-007acc?style=for-the-badge&labelColor=black&logo=node.js&logoColor=007acc)](#)  [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
-
-</div>
 
 <br />
 <br />
