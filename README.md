@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/65945317/101925667-209cb080-3bf8-11eb-8851-aad9b95fafb2.gif
-" width="500" height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/65945317/101925667-209cb080-3bf8-11eb-8851-aad9b95fafb2.gif" width="500" height="320" />
 
 
 <br />
