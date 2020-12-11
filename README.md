@@ -11,7 +11,7 @@ I'm Aman Saxena a Front End Web Developer and Android Developer.
 <br />
 <br />
 
-<img src="https://user-images.githubusercontent.com/65945317/101934714-f9e47700-3c03-11eb-86a7-045d18eba9cb.gif" alt="gif" float="center" width="200px">
+<img src="https://user-images.githubusercontent.com/65945317/101934714-f9e47700-3c03-11eb-86a7-045d18eba9cb.gif" alt="gif" float="center" width="500">
 
 
 <br />
