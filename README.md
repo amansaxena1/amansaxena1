@@ -5,11 +5,13 @@ I'm Aman Saxena a Front End Web Developer and Android Developer.
 <br />
 :mailbox: Reach me out!
 
+<br />
 
 [![Twitter Badge](https://img.shields.io/badge/-@amansaxena001-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amansaxena001)](https://twitter.com/amansaxena001) [![Mail Badge](https://img.shields.io/badge/-amansaxena-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:saxenaaman202001@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-amansaxena1-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-saxena-7307751a9/) [![Mail Badge](https://img.shields.io/badge/@a.man.saxena-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/a.man.saxena/)
 
 <br />
 <br />
+
 <img src="https://user-images.githubusercontent.com/65945317/101934714-f9e47700-3c03-11eb-86a7-045d18eba9cb.gif" alt="gif" float="center" width="500">
 <br />
 <br />
@@ -17,9 +19,13 @@ I'm Aman Saxena a Front End Web Developer and Android Developer.
 
 ### Top Technologies
 
-<!-- TODO: Make technologies links takes you to repositories -->
-
+<div align="center">
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Android Badge](https://img.shields.io/badge/-Android-3C873A?style=for-the-badge&labelColor=black&logo=android&logoColor=3C873A)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-007acc?style=for-the-badge&labelColor=black&logo=node.js&logoColor=007acc)](#)  [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+
+</div>
+
+<br />
+<br />
 
 ### Languages and Tools
 
