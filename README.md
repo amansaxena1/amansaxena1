@@ -1,12 +1,20 @@
-### Hi there 👋
+## Hi I'm Aman <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+I'm Aman Saxena a Front End Web Developer and Android Developer. 
+:mailbox: Reach me out!
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/65945317/101925667-209cb080-3bf8-11eb-8851-aad9b95fafb2.gif" width="500" height="320" />
 
+[![Twitter Badge](https://img.shields.io/badge/-@amansaxena001-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amansaxena001)](https://twitter.com/amansaxena001) [![Linkedin Badge](https://img.shields.io/badge/-aman-saxena-7307751a9?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-saxena-7307751a9/) [![Mail Badge](https://img.shields.io/badge/-@aman-saxena-7307751a9?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.linkedin.com/in/aman-saxena-7307751a9/) [![Mail Badge](https://img.shields.io/badge/-amansaxena-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:saxenaaman202001@gmail.com)
 
-<br />
 
-### Languages and Tools:
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Android Badge](https://img.shields.io/badge/-Android-3C873A?style=for-the-badge&labelColor=black&logo=android&logoColor=3C873A)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-007acc?style=for-the-badge&labelColor=black&logo=node.js&logoColor=007acc)](#)  [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -21,18 +29,18 @@
 
 <br />
 <br />
----
 
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Aman's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amansaxena1&show_icons=true&hide_border=true" />
-<br />
+#### Profile Visits 
 
-  <summary>:zap: Most Used Languages</summary>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=amansaxena1.amansaxena1)
 
-<img align="left" alt="Aman's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansaxena1" />
+<details>
+<br >
 
-<br/>
 
-[instagram]: https://www.instagram.com/a.man.saxena/
-[linkedin]: https://www.linkedin.com/in/aman-saxena-7307751a9/
+#### Github Stats
+
+![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amansaxena1&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+</details>
