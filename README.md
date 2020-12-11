@@ -12,14 +12,13 @@ I'm Aman Saxena a Front End Web Developer and Android Developer.
 <br />
 <br />
 
-<img src="https://user-images.githubusercontent.com/65945317/101934714-f9e47700-3c03-11eb-86a7-045d18eba9cb.gif" alt="gif" float="center" width="500">
+<img src="https://user-images.githubusercontent.com/65945317/101934714-f9e47700-3c03-11eb-86a7-045d18eba9cb.gif" alt="gif" align="center" width="500">
 <br />
 <br />
 
 
 ### Top Technologies
 
-<align="center">
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Android Badge](https://img.shields.io/badge/-Android-3C873A?style=for-the-badge&labelColor=black&logo=android&logoColor=3C873A)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-007acc?style=for-the-badge&labelColor=black&logo=node.js&logoColor=007acc)](#)  [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 <br />
@@ -46,7 +45,7 @@ I'm Aman Saxena a Front End Web Developer and Android Developer.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=amansaxena1.amansaxena1)
 
-
+<br />
 ### Github Stats
 
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amansaxena1&count_private=true&theme=tokyonight&hide=contribs,prs)
