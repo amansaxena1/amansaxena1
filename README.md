@@ -5,7 +5,7 @@ I'm Aman Saxena a Front End Web Developer and Android Developer.
 :mailbox: Reach me out!
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@amansaxena001-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amansaxena001)](https://twitter.com/amansaxena001) [![Linkedin Badge](https://img.shields.io/badge/-amansaxena1-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-saxena-7307751a9/) [![Mail Badge](https://img.shields.io/badge/@a.man.saxena-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/a.man.saxena/) [![Mail Badge](https://img.shields.io/badge/-amansaxena-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:saxenaaman202001@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@amansaxena001-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amansaxena001)](https://twitter.com/amansaxena001) [![Mail Badge](https://img.shields.io/badge/-amansaxena-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:saxenaaman202001@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-amansaxena1-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-saxena-7307751a9/) [![Mail Badge](https://img.shields.io/badge/@a.man.saxena-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/a.man.saxena/)
 
 
 #### Top Technologies
