@@ -1,5 +1,5 @@
-## Hi I'm Aman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px" alt="hi">
-https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif
+## Hi I'm Aman <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="34px" alt="hi">
+
 I'm Aman Saxena a Front End Web Developer and Android Developer.
 <br />
 <br />
@@ -12,7 +12,7 @@ I'm Aman Saxena a Front End Web Developer and Android Developer.
 <br />
 <br />
 
-<img src="https://user-images.githubusercontent.com/65945317/101934714-f9e47700-3c03-11eb-86a7-045d18eba9cb.gif" alt="gif" align="center" width="500">
+<img src="https://raw.githubusercontent.com/hebertdev1/hebertdev1/master/javascript.gif" alt="gif" align="center" width="500">
 <br />
 <br />
 
