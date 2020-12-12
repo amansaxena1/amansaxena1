@@ -42,20 +42,14 @@ I'm Aman Saxena a Front End Web Developer and Android Developer.
 <br />
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/65945317/101934714-f9e47700-3c03-11eb-86a7-045d18eba9cb.gif" width="750">
+  <img src="https://user-images.githubusercontent.com/65945317/101934714-f9e47700-3c03-11eb-86a7-045d18eba9cb.gif" width="800">
 </div>
 
 <br />
 <br />
 
-
-### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=amansaxena1.amansaxena1)
-
-<br />
-
 ### Github Stats
 
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amansaxena1&count_private=true&theme=tokyonight&hide=contribs,prs)
-
+<br />
+![visitors](https://visitor-badge.glitch.me/badge?page_id=amansaxena1.amansaxena1)
